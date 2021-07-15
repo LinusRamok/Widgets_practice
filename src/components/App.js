@@ -7,7 +7,7 @@ import Route from "./Route";
 import Header from "./Header";
 const Items = [
   { title: "What is React", content: "frontend framework" },
-  { title: "What is apple", content: "it is a fruit" },
+  { title: "What is apple", content: "it is a fruit. not tasty" },
   { title: "What is mobile", content: "it is a communication device" },
 ];
 const options = [
